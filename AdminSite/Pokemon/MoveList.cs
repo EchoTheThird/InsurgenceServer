@@ -21,6 +21,7 @@ namespace AdminSite.Pokemon
 
         public enum MovesList
         {
+            None = 0,
             Megahorn = 1,
             AttackOrder = 2,
             BugBuzz = 3,
